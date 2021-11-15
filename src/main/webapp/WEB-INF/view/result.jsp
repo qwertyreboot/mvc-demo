@@ -1,0 +1,1 @@
+Result = <%= request.getAttribute("c") %>
